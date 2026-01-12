@@ -255,8 +255,8 @@
         .skill-node:hover { color: #339933; border-color: #339933; background: rgba(51, 153, 51, 0.1); }
         .skill-tailwind:hover { color: #06B6D4; border-color: #06B6D4; background: rgba(6, 182, 212, 0.1); }
         .skill-php:hover { color: #777BB4; border-color: #777BB4; background: rgba(119, 123, 180, 0.1); }
-        .skill-mysql:hover { color: #4479A1; border-color: #4479A1; background: rgba(68, 121, 161, 0.1); }
-
+        .skill-mysql:hover { color: #F39C12; border-color: #00758F; background: rgba(0, 117, 143, 0.08); }
+        .skill-golang:hover { color: #00ADD8; border-color: #00ADD8; background: rgba(0, 173, 216, 0.1); }
         /* --- ABOUT & TIMELINE --- */
         .about-grid { display: grid; grid-template-columns: 1fr; gap: 50px; }
         .about-text p { margin-bottom: 20px; color: var(--text-muted); text-align: justify; }
